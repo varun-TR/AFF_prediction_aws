@@ -44,8 +44,7 @@ python app.py
 
 The development server will be up and running on port 5000 at the URL: http://127.0.0.1:5000/
 
-Now go to the UI Folder and open app.html on the browser. Drag an image of your favorite celebrity from the five and hit the classify button. Our app will predict the celebrity's name with his/her image. It will also show us the percentage match of our image with all the five celebrities.
 
-Hope you like this project !!! 👍
+Hope you like the project !!! 👍
 
 
